@@ -1,1 +1,1 @@
-export const Server_url='http://localhost:4000'
+export const Server_url='https://mp-server-jan.onrender.com'
